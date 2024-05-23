@@ -11,7 +11,7 @@
     DB_USERNAME=root
     DB_PASSWORD=
 
-5. Crear la Key con el siguiente comando en la terminal: pho artisan key:generate
+5. Crear la Key con el siguiente comando en la terminal: php artisan key:generate
 6. Ejecutar las migraciones y las semillas con `php artisan migrate --seed`
 7. Iniciar el servidor de desarrollo con `npm run dev`
 8. Acceder a la aplicación en `http://mieempresa.test`
